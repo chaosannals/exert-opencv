@@ -1,0 +1,3 @@
+[submodule "qt6demo/opencv"]
+	path = qt6demo/opencv
+	url = git@github.com:opencv/opencv.git
